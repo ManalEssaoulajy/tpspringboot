@@ -34,8 +34,18 @@ Le but de ce TP est de ce familiariser avec springboot et swagger
 
 
 # Technologie utilisees
-1-spring tools
-2-jdk 17
-3-postman
-4-maven
-5-swagger
+-spring tools  
+
+-jdk 17  
+
+-postman  
+
+-maven  
+
+-swagger  
+
+# Caractéristiques du projet :
+-Opérations CRUD  
+
+-Utilisation de Swagger  
+.
